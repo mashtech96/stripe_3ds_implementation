@@ -1,6 +1,9 @@
 ## Table of contents
+* [General Info](#general-info)
 * [Launch](#launch)
 
+## General Info
+* I have used Javascript + laravel for implementing stripe payment 
 
 ## Launch
 * clone project
